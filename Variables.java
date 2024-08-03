@@ -4,6 +4,9 @@ public class Variables {
 
     // Variable -> It is a container which stores the values in (String,integer,double,boolean,etc)
     // '-> It value can be changed during execution.
+    // '-> _name,name20 <- varible name is correct  | 20Name -> is incorrect
+    // '-> value can't be keyword 
+    // '-> Harry and harry is different in java
 
     public static void main(String[] args) {
         int a = 10;
